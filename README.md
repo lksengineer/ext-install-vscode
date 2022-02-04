@@ -1,4 +1,4 @@
-# ext-install-vscode
+# ext-install-vscode (ctrl+ship+p)
 Extensions to improve the use of VS Code
 
 
